@@ -19,6 +19,7 @@ This portfolio showcases my work on various automation and integration projects.
 - WooCommerce REST API
 - Webhooks
 - Workflow Automation
-- Google Workspace (Sheets, Drive, Gmail)
+- Google Workspace (Sheets, Gmail)
+- Postman
 
 Feel free to explore the projects and reach out if you have any questions!
