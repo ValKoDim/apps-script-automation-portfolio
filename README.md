@@ -10,9 +10,11 @@ This portfolio showcases my work on various automation and integration projects.
 
 2. [Order Management System](order-management/)
    - Automated table creation for WooCommerce orders and email notifications for employees.
+   - Saved 5+ hours a week in manual updates of orders.
 
 3. [PDF Invoice Generator](pdf-generator-web-app/)
    - Web app that generates and emails proforma invoices based on order IDs.
+   - Cutting costs by providing a custom solution for Invoice and Proforma generation, without the need for external plugins.
 
 ## ⚙️ Skills & Tools
 - Google Apps Script
