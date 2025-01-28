@@ -1,5 +1,5 @@
 # Google Apps Script Automation Portfolio
-Hi, I'm [Your Name], a Google Apps Script developer specializing in automating workflows, integrating APIs, and optimizing business processes.
+Hi, I'm Valentin, a Google Apps Script developer specializing in automating workflows, integrating APIs, and optimizing business processes.
 
 This portfolio showcases my work on various automation and integration projects.
 
