@@ -42,7 +42,7 @@ This project automates **inventory synchronization** across multiple WooCommerce
 
 ## 📩 Contact
 Need a custom WooCommerce automation? **Reach out!**
-- **Email:** [YourEmail@example.com]
-- **LinkedIn:** [YourLinkedInProfile]
+- **Email:** valentin.diimitrov@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/valentin-dimitrov-tech/
 - **Portfolio:** [YourWebsite.com]
 
