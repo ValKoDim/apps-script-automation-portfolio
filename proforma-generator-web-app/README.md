@@ -45,5 +45,5 @@ This project automates **proforma invoice generation** using **Google Apps Scrip
 Need a custom WooCommerce automation? **Reach out!**
 - **Email:** valentin.diimitrov@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/valentin-dimitrov-tech/
-- **Portfolio:** [\[YourWebsite.com\]](https://valkodim.github.io/)
+- **Portfolio:** https://valkodim.github.io/
 

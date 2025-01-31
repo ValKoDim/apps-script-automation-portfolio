@@ -107,5 +107,5 @@ Ensure the script has permission to send emails using **Gmail API**.
 Want to automate your workflow? **Reach out!**
 - **Email:** valentin.diimitrov@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/valentin-dimitrov-tech/
-- **Portfolio:** [YourWebsite.com]
+- **Portfolio:** https://valkodim.github.io/
 
