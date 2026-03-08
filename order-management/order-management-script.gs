@@ -250,11 +250,11 @@ function copyAndReplaceSpreadsheet() {
 
     // Send an email notification
 
-    const recipient = "valentin@digitalmarketing.bg";
+    const recipient = "YOUR_EMAIL_1_PLACEHOLDER";
 
-    const recipient2 = "saris.extensions@gmail.com";
+    const recipient2 = "YOUR_EMAIL_2_PLACEHOLDER";
 
-    const recipient3 = "support@saris-extensions.co.uk";
+    const recipient3 = "YOUR_EMAIL_3_PLACEHOLDER";
 
     const subject = `New Spreadsheet Created: ${newSpreadsheetName}`;
 
@@ -294,6 +294,6 @@ function setInitialTableId(tableId) {
 
 function setUp() {
 
-  setInitialTableId('1NvaNk5NCl_oJfA95iQhoOG7-Wk7mFFdxqOzPugCSbJI');
+  setInitialTableId('YOUR_SPREADSHEET_ID_PLACEHOLDER');
 
 }
